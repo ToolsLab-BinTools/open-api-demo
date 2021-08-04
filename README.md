@@ -7,7 +7,7 @@ This project is a example project for CloudQuery Community, which can assist com
 Find ` AdDomainServer ` in the directory .
  2. Replace the ` APPID ` and ` SECRET ` in the code with the appId and secret applied by the CloudQuery platform
  3. Replace ` HOST ` in the code with the IP of the CloudQuery server
- 4.Replace the ` adminName ` in the ` connectionAdDomain() ` method with the AD server account
+ 4. Replace the ` adminName ` in the ` connectionAdDomain() ` method with the AD server account
  5. Replace ` adminPassword ` with the corresponding password of the account
  6. Replace ` ldapURL ` with the domain name and port number of the AD server
  7. Replace ` SECURITY_AUTHENTICATION ` with the corresponding authentication level of the AD server ("none", "simple", "strong")
