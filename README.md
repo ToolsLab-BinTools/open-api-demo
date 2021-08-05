@@ -1,5 +1,5 @@
 # open-api-demo
-This project is a example project for CloudQuery Community, which can assist community users in code development such as organizational structure import, and is also the recommended implementation of the current CloudQuery open API. Welcome all community users with development capabilities to join us and learn about code technology.
+This project is an example for CloudQuery Community, which can assist community users in code development such as organizational structure import, and is also the recommended implementation of the current CloudQuery open API. Welcome all community users with development capabilities to join us and learn about code technology.
 
 ## Use Guide
  1. After downloading the code package or cloning the code, use IDEA or other Java IDE tools to open it. exist
