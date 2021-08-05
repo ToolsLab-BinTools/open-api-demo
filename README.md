@@ -18,6 +18,9 @@ Permission module and audit module will continue to be opened in the future
  - Permission module: export and import permissions under connection
  - Audit module: filter and export audit records
  
+## Details
+Refer to the link for details of interface use [here](https://cloudquery.club/docs/install/open-api)
+ 
 ## Learn More
 Click here to learn about [CloudQuery](https://cloudquery.club/) </br>
 Click here to learn about [Bintools](https://bintools.cn/)
